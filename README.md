@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # alura-tracker
 
 ## Project setup
@@ -22,3 +23,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# Alura-Tracker
+Aplicação de estudo do curso de Vue3 da alura.
+>>>>>>> 23744361892637528864df240f4a2a78d9e4ca32
